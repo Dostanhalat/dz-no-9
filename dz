@@ -1,0 +1,6 @@
+let n = ['Капуста', 'Репа', 'Редиска', 'Морковка']
+console.log(n[0],n[1],n[2],n[3])
+let g = ['меня зовут']
+let m = ['привет']
+let p = prompt('enter your name')
+console.log(g[0],m[0],p[0])
